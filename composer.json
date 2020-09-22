@@ -1,0 +1,16 @@
+{
+    "name": "covoituragesimple/crudexample",
+    "description": "Petit programme pedagogique qui permet de découvrir des design pattern comme le MVC et le FC",
+    "type": "project",
+    "license": "LGPL-3",
+    "authors": [
+        {
+            "name": "Vincent bonnier",
+            "email": "bonnier.vincentpro@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "monolog/monolog": "^2.1"
+    }
+}
