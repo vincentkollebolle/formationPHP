@@ -11,6 +11,8 @@
     ],
     "require": {
         "setasign/fpdf": "^1.8",
-        "monolog/monolog": "^2.1"
+        "monolog/monolog": "^2.1",
+        "symfony/http-foundation": "^5.1",
+        "symfony/http-client": "^5.1"
     }
 }
